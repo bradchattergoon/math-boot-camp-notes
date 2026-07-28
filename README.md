@@ -8,7 +8,7 @@ The notes are independently authored and are not an official publication of the 
 
 ## Latest edition
 
-The latest official edition is available through the Releases section of this repository.
+The latest official edition is available in this repository.
 
 Please use the version number and publication date shown in the PDF when citing the notes.
 
