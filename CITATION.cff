@@ -1,0 +1,8 @@
+cff-version: 1.0
+message: "If you use these notes, please cite it as below."
+authors:
+  - family-names: Chattergoon
+    given-names: Brad
+title: "Mathematical Foundations for Operations Research"
+version: 1.0.0
+date-released: 2026-07-27
